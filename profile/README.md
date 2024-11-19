@@ -1,31 +1,10 @@
 # VerveOS
 
-**VerveOS** — это мобильная операционная система, основанная на **Android 15**, разрабатываемая в рамках совместного проекта **GoldenVadim** (руководитель) и **taliildar** (разработчик). VerveOS ориентирована на открытость, удобство и высокую функциональность. 
+**VerveOS** is a mobile operating system based on **Android 15**, developed by **GoldenVadim** (leader) and **taliildar** (developer). The project focuses on openness, functionality, and ease of use.
 
-⚠️ **Проект находится в разработке. Версия для скачивания пока недоступна.**
+⚠️ **Currently in development. The OS is not available for download yet.**
 
-## Основные особенности (планируются)
+## Project Status
 
-- **Базируется на Android 15**: современная платформа с высокими возможностями.
-- **Open Source** и полностью бесплатная.
-- **NikGapps**: встроенный набор Google-приложений.
-- **Встроенный root**: доступ для разработчиков и опытных пользователей.
-- Собственные приложения, интегрированные в экосистему VerveOS.
-
-## Статус разработки
-
-- **Операционная система:** на этапе активной разработки.
-- **Официальный сайт:** [verveos.anmitali.kz](https://verveos.anmitali.kz) — готов, но информация будет обновляться по мере прогресса.
-
-## Обратите внимание
-
-- **Android** и **NikGapps** остаются собственностью их авторов. Проект VerveOS не присваивает авторских прав на эти технологии и распространяет их в соответствии с их лицензиями.
-- В будущем ОС станет доступной для скачивания и использования в рамках open source.
-
-## Контакты
-
-Для вопросов и предложений вы можете связаться с разработчиками через [сайт проекта](https://verveos.anmitali.kz).
-
----
-
-Разработано **GoldenVadim** и **taliildar**.
+- **Operating System:** In active development.  
+- **Official Website:** [verveos.anmitali.kz](https://verveos.anmitali.kz) — ready and online.
