@@ -6,5 +6,5 @@
 
 ## Project Status
 
-- **Operating System:** In active development.  
+- **Operating System:** Not available for now.  
 - **Official Website:** [verveos.anmitali.kz](https://verveos.anmitali.kz) — ready and online.
